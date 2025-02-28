@@ -1,4 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Jay Carlton 👋
+
+I'm a passionate software developer and artist, combining creativity with technology to build innovative solutions.
+
+## 🚀 About Me
+- 🔭 I’m currently working on various open-source projects
+- 🌱 I’m currently learning advanced web development and AI
+- ⚡ Fun fact: I love blending art and technology to create unique experiences
+
+## 🛠️ Technologies & Tools
+- Programming Languages: JavaScript, Python, C++
+- Web Development: HTML, CSS, React, Node.js
+- Tools: Git, VS Code
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 GitHub Stats
+![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayCarltonArts&show_icons=true&theme=radical)
+
+## 🖼️ Featured Projects
+- [Artistic AI](https://github.com/JayCarltonArts/ArtisticAI): An AI project that generates artwork from text descriptions.
+- [Creative Portfolio](https://github.com/JayCarltonArts/CreativePortfolio): A portfolio website showcasing my art and tech projects.
+
 
 <!--
 **JayCarltonArts/JayCarltonArts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
