@@ -18,9 +18,6 @@ I'm a passionate software developer and artist, combining creativity with techno
 ## 📈 GitHub Stats
 ![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayCarltonArts&show_icons=true&theme=radical)
 
-## 🖼️ Featured Projects
-- [Artistic AI](https://github.com/JayCarltonArts/ArtisticAI): An AI project that generates artwork from text descriptions.
-- [Creative Portfolio](https://github.com/JayCarltonArts/CreativePortfolio): A portfolio website showcasing my art and tech projects.
 
 
 <!--
