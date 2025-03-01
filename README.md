@@ -8,8 +8,8 @@ I'm a passionate software developer and artist, combining creativity with techno
 - ⚡ Fun fact: I love blending art and technology to create unique experiences
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: JavaScript, Python, C++
-- Web Development: HTML, CSS, React, Node.js
+- Programming Languages:  C++, Python, JavaScript
+- Web Development: HTML, CSS, Node.js
 - Tools: Git, VS Code
 
 ## 🏆 GitHub Trophies
