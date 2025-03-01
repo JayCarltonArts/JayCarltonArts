@@ -3,8 +3,8 @@
 I'm a passionate software developer and artist, combining creativity with technology to build innovative solutions.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on various open-source projects
-- 🌱 I’m currently learning advanced web development and AI
+- 🔭 I’m currently working on various game jam projects
+- 🌱 I’m currently learning AIand LLM integrations
 - ⚡ Fun fact: I love blending art and technology to create unique experiences
 
 ## 🛠️ Technologies & Tools
