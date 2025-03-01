@@ -4,7 +4,7 @@ I'm a passionate software developer and artist, combining creativity with techno
 
 ## 🚀 About Me
 - 🔭 I’m currently working on various game jam projects
-- 🌱 I’m currently learning AIand LLM integrations
+- 🌱 I’m currently learning AI and LLM integrations
 - ⚡ Fun fact: I love blending art and technology to create unique experiences
 
 ## 🛠️ Technologies & Tools
