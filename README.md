@@ -15,9 +15,6 @@ I'm a passionate software developer and artist, combining creativity with techno
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 GitHub Stats
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayCarltonArts&show_icons=true&theme=radical)
-
 
 
 <!--
